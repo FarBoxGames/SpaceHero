@@ -1,12 +1,14 @@
-<SHOPS>
-	<!--Вещи покупаются здесь-->
+<?xml version="1.0" encoding="utf-8"?>
+<SHOPS VERSION="1" BUNDLENAME="Shops.bundle">	
 	
-	<!--Корабли-->
-	<SHOP_SPACESHIP>
-		<spaceship id="0" price="1000" requireLevel="0"/>
-	</SHOP_SPACESHIP>
 	<!--Оружие-->
 	<SHOP_WEAPONS>
 	    <weapon id="0" price="250" requireLevel="0"/>
-	</SHOP_WEAPONS>
+	</SHOP_WEAPONS>	
+	
+	<!--Корабли-->
+	<SHOP_SPACESHIPS>
+		<spaceship id="0" price="1000" requireLevel="0"/>
+	</SHOP_SPACESHIPS>
+
 </SHOPS>
