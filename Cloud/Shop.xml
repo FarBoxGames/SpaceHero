@@ -1,0 +1,12 @@
+<SHOPS>
+	<!--Вещи покупаются здесь-->
+	
+	<!--Корабли-->
+	<SHOP_SPACESHIP>
+		<spaceship id="0" price="1000" requireLevel="0"/>
+	</SHOP_SPACESHIP>
+	<!--Оружие-->
+	<SHOP_WEAPONS>
+	    <weapon id="0" price="250" requireLevel="0"/>
+	</SHOP_WEAPONS>
+</SHOPS>
