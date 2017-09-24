@@ -2,12 +2,12 @@
 <SHOPS VERSION="1" BUNDLENAME="Shops.bundle">	
 	
 	<!--Оружие-->
-	<SHOP_WEAPONS>
+	<SHOP_WEAPONS TRADE_TYPE="0">
 	    <weapon id="0" price="250" requireLevel="0"/>
 	</SHOP_WEAPONS>	
 	
 	<!--Корабли-->
-	<SHOP_SPACESHIPS>
+	<SHOP_SPACESHIPS TRADE_TYPE="2">
 		<spaceship id="0" price="1000" requireLevel="0"/>
 	</SHOP_SPACESHIPS>
 
