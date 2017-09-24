@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SHOPS VERSION="1" BUNDLENAME="Shops.bundle">	
+<SHOPS VERSION="1" DEFAULT_BUNDLE="Shops.Default.bundle" ADDITIONAL_BUNDLE="Shops.Additional.bundle">	
 	
 	<!--Оружие-->
 	<SHOP_WEAPONS TRADE_TYPE="0">
