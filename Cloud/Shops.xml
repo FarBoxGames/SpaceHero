@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SHOPS VERSION="1" DEFAULT_BUNDLE="Shops.Default.bundle" ADDITIONAL_BUNDLE="Shops.Additional.bundle">	
 	
-	<!--Оружие-->
-	<SHOP_WEAPONS TRADE_TYPE="0">
-	    <weapon id="0" price="250" requireLevel="0"/>
+	<SHOP_WEAPONS PRODUCT_TYPE="0">
+	    <weapon id="0" price="250" requireLevel="0"/>  
 	</SHOP_WEAPONS>	
 	
-	<!--Корабли-->
-	<SHOP_SPACESHIPS TRADE_TYPE="2">
+	<SHOP_SPACESHIPS PRODUCT_TYPE="2">
 		<spaceship id="0" price="1000" requireLevel="0"/>
 	</SHOP_SPACESHIPS>
-
+	
+	<SHOP_BONUSES  PRODUCT_TYPE="4">
+		<bonus id="0" price="100" requireLevel="0"/>
+    </SHOP_BONUSES>
+	
 </SHOPS>

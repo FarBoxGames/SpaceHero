@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<init>	
+	<property gameinit="true" reason="Error server" description="A server said no about a start"/>	
+</init>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <avatars bundlename="Profiles.bundle">
-	<property version="1" dir="avatars" width="1024" height="1024"/>
-	<sources>
+	<property version="1" dir="avatars" width="1024" height="1024" urlRoot="Profiles.root"/>
+	<sources author="Vecteezy">
 		<avatar name="Astronaut"       id="0"   src="astronaut.png"/>
 		<avatar name="Alien"           id="1"   src="alien.png"/>
 		<avatar name="Asteroid" 	   id="2"   src="asteroid.png"/>
@@ -9,7 +9,7 @@
 		<avatar name="Astronaut-Moon"  id="4"   src="astronaut-moon.png"/>
 		<avatar name="Earth" 	       id="5"   src="earth.png"/>
 		<avatar name="Moon"            id="6"   src="moon.png"/>
-		<avatar name="Moon-Flag"   id="7"   src="moon-flag.png"/>
+		<avatar name="Moon-Flag"       id="7"   src="moon-flag.png"/>
 		<avatar name="Rocket"          id="8"   src="rocket.png"/>
 		<avatar name="Satelite"        id="9"   src="satelite.png"/>
 		<avatar name="Satelite-Radar"  id="10"  src="satelite-radar.png"/>
@@ -23,4 +23,6 @@
 		<avatar name="Ursa-Minor"      id="18"  src="ursa-minor.png"/>
 		<avatar name="Venus"           id="19"  src="venus.png"/>
 	</sources>
+	<AdditionalSources>
+	</AdditionalSources>
 </avatars>
